@@ -1,2 +1,2 @@
-# laravel
-this is laravel project
+kanexy new project
+ this is my first new project
